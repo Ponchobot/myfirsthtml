@@ -1,0 +1,25 @@
+article {
+    background-color: rgb(225, 225, 225);
+    color: blue;
+}
+header{
+    background-color: aqua;
+} 
+
+img{
+    width: 200px;
+
+}
+#imagen1{
+    width: 500px;
+}
+
+li{
+    display: inline;
+
+}
+
+
+.mery{
+    font-family: monospace;
+}
